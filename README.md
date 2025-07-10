@@ -1,19 +1,12 @@
 
 ---
 
-## 🟩 `README.md` for Scalable-ToDo Backend (Node.js / Django)
-
-> Choose the backend stack you used — I’ll give you both **Node.js (Express)** and **Django (DRF)** flavors.  
-Let’s assume you used **Node.js + Express** here for now (tell me if it's Django and I’ll flip it).
-
----
-
-### 📦 `README.md` for Node.js + Express Backend
+## 🟩 `README.md` for Scalable-ToDo Backend (Django)
 
 ```markdown
 # Scalable ToDo App – Backend
 
-This is a lightweight backend built with **Node.js** and **Express** to support a scalable ToDo application. It provides a REST API for creating, reading, updating, and deleting tasks.
+This is a lightweight backend built with Django to support a scalable ToDo application. It provides a REST API for creating, reading, updating, and deleting tasks.
 
 ---
 
@@ -22,7 +15,7 @@ This is a lightweight backend built with **Node.js** and **Express** to support 
 - 🛠️ RESTful API for ToDo operations
 - ✅ Task status tracking
 - 🔁 Scalable project structure
-- 🗃 In-memory or database-based storage (MongoDB, etc.)
+- 🗃 In-memory or database-based storage 
 - 🧼 Clean codebase and easy to extend
 
 ---
@@ -42,7 +35,7 @@ This is a lightweight backend built with **Node.js** and **Express** to support 
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/scalable-todo-backend.git
+git clone https://github.com/MithunPranavaR/Scalable-Todo-BackEnd.git
 cd scalable-todo-backend
 
 ### 2️⃣ Install Dependencies
